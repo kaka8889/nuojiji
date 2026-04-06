@@ -1,0 +1,7 @@
+# 排除敏感配置文件
+*.token
+*.key
+secret.json
+config.json
+# 排除糯嘰機敏感备份内容
+nuoji_backup/config/*
