@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1776055163882,
+  "timestamp": 1776078910363,
   "appVersion": "4.0.0 (2026.04.11)",
   "tables": [
     "characters",
@@ -32,6 +32,7 @@
     "couplesData",
     "imageStore",
     "quickReplies",
+    "goingOutState",
     "_migration"
   ],
   "chunkedTables": {
