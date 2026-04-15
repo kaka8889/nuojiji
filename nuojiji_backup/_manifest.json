@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1776154592428,
+  "timestamp": 1776247358265,
   "appVersion": "4.0.0 (2026.04.11)",
   "tables": [
     "characters",
@@ -34,9 +34,10 @@
     "quickReplies",
     "goingOutState",
     "mapRasterCache",
+    "customGames",
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 5
+    "messages": 6
   }
 }
