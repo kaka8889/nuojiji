@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1776645075458,
-  "appVersion": "4.0.0 (2026.04.11)",
+  "timestamp": 1776664758142,
+  "appVersion": "5.0.0 (2026.04.20)",
   "tables": [
     "characters",
     "worldBooks",
@@ -33,13 +33,14 @@
     "imageStore",
     "quickReplies",
     "goingOutState",
+    "goingOutAreas",
     "mapRasterCache",
     "customGames",
     "customWidgetTemplates",
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 10,
+    "messages": 11,
     "tmStories": 2
   }
 }
